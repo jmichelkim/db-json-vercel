@@ -1,0 +1,70 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Paz na guerra",
+      "autoria": "Colega da CEPTI",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Foco Força e Fé",
+      "autoria": "Deus",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "No dep emocional",
+      "autoria": "Elton Euller",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Casar é uma felicidade",
+      "autoria": "Jesus Cirsto",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Estude e se dedique",
+      "autoria": "Papa",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "O mundo é lindo",
+      "autoria": "Deus",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "Cuide de sua saúde",
+      "autoria": "Todos",
+      "modelo": "modelo3",
+      "id": 7
+    },
+    {
+      "conteudo": "Aline, eu te amo",
+      "autoria": "Kim",
+      "modelo": "modelo1",
+      "id": 8
+    },
+    {
+      "conteudo": "Bom dia para estudar Angular",
+      "autoria": "Dev Angular",
+      "modelo": "modelo3",
+      "id": 9
+    },
+    {
+      "conteudo": "Aline é minha amada, protegida, linda esposa",
+      "autoria": "Kim. Michel",
+      "modelo": "modelo3",
+      "id": 10
+    },
+    {
+      "conteudo": "Nunca é fácil",
+      "autoria": "Bob Marley",
+      "modelo": "modelo2",
+      "id": 11
+    }
+  ]
+}
